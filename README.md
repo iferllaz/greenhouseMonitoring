@@ -1,5 +1,5 @@
 # **Greenhouse Monitoring Analysis Using IoT Agents**
-Greenhouse monitoring analysis using IoT Agents simulations, my first data analysis for experimentation and learning purposes.
+Greenhouse monitoring analysis using IoT Agents simulations, one of my firsts data analysis for experimentation and learning purposes.
 
 The following report provides a detailed analysis of a greenhouse environment using an Arduino agent simulator equipped with IoT sensors. The following analysis is based on a simulation; all the results shown afterward are not part of any real sample. The IoT agents collect real-time data about the greenhouse's temperature, humidity, and other environmental conditions. The collected data is processed through the agent simulator, which generates a comprehensive log of the greenhouse's performance.
 
