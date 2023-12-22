@@ -18,6 +18,7 @@ The primary purpose of this project is for learning and experimentation in the f
 ## Technologies Used
 - Arduino for Agent Simulation.
 - IoT Sensors for Data Collection.
+- Python for data manipulation
 - Jupyter Notebook for Data Analysis and Visualization.
 
 ## Feedback and Contributions
